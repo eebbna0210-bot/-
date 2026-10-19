@@ -1,0 +1,6 @@
+{
+  "name": "마스터 셰프 시뮬레이터 (Master Chef Simulator)",
+  "description": "물리 엔진 기반 재료 손질 및 조리 시뮬레이션, 레스토랑 경영, 멀티 협동 및 요리 대결, 나만의 메뉴 개발 모드를 지원하는 종합 요리 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
